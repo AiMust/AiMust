@@ -1,10 +1,16 @@
 ## About me
-Привет! Меня зовут Айназ. 
+Привет! Меня зовут Айназ.
 
-Последние 1,5 года я погружаюсь в сферу IT и прохожу обучение в школе программирования [School 21](https://21-school.ru).
+Я погружаюсь в сферу IT и прохожу обучение в школе программирования [School 21](https://21-school.ru).
 
 В моем арсенале есть такие навыки как:
 
+
+![GIT](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
+![QT](https://img.shields.io/badge/GT-black?style=for-the-badge&logo=Qt&logoColor=bright%20green)
+![Static Badge](https://img.shields.io/badge/SQL-black?style=for-the-badge)
+![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=%239C5BF9)
 
 
 
