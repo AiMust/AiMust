@@ -17,6 +17,17 @@
 ![Static Badge](https://img.shields.io/badge/SQL-black?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=%239C5BF9)
 
+<!---
+### Учебные проекты
+| Name | Description | Tools |
+| --- | --- | --- |
+| [LinuxMonitoring](https://github.com/) | Мониторинг системы Linux | Linux, bash, awk |
+| [LinuxNetwork](https://github.com/) | Создание сети для 5 виртуальных машин | Linux, сети, nginx, VM |
+| [SimpleDocker](https://github.com/) | Работа с Docker контейнерами | Docker, Docker Compose, nginx |
+| [CI/CD](https://github.com/) | Построение pipeline's на базе Gitlab | CI/CD, Gitlab, Telegram Bot |
+| [SmartCalc](https://github.com/) | Расширенный калькулятор с возможностью построения графика функций и рассчета кредита | C++, MVC, Qt, gtest, makefile |
+| [SQLBootcamp](https://github.com//) | Кластер учебных проектов по изучению работы с PostgreSQL | PostgreSQL |
+
 
 
 <!---
